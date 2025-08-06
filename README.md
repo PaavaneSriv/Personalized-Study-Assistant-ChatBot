@@ -95,7 +95,7 @@ The project has the potential to be scaled and enhanced with the following plann
 ```
 personalized-study-assistant-chatbot/
 │
-├── app.py
+├── mainapp.py
 ├── requirements.txt
 ├── README.md
 └── .gitignore
